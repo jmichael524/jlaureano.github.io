@@ -148,3 +148,9 @@ footer a:hover {
 .header{
 	border-radius: 25px;
 }
+
+table {
+	width: 426px;
+	border: 1px solid #888888;
+	padding-left: 60px;
+}
