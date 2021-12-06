@@ -147,6 +147,8 @@ footer a:hover {
 
 .header{
 	border-radius: 25px;
+	height: 300px;
+	width: 900px;
 }
 
 table {
@@ -154,3 +156,16 @@ table {
 	border: 1px solid #888888;
 	padding-left: 60px;
 }
+
+.drink {
+	width: 210px;
+	height: 150px;
+}
+
+.heart {
+	width: 210px;
+	height: 150px;
+}
+
+
+
